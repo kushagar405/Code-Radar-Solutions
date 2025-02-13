@@ -8,6 +8,6 @@ int main(){
     } else if (num2 > num1) {
         printf("%d", num2, num1);
     } else {
-        printf("");
+        printf("%d",num1,num2);
     }
 }
