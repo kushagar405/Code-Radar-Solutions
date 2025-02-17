@@ -9,7 +9,7 @@ int main(){
         printf("the maximum number: %d\n",b);
     }
     else{
-        printf("the maximum number: %d\n",c)
+        printf("the maximum number: %d\n",c);
     }
     return 0;
 
