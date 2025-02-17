@@ -10,6 +10,4 @@ int main(){
         printf("false");
     }
     return 0;
-
-
 }
