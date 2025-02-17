@@ -9,6 +9,7 @@ int main(){
     else if{(a>0 && b>0){
         printf("False");
     }
-        printf("False");
+    else{
+        printf("INvalid"");
     }
 }
