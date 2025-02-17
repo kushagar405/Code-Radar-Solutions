@@ -9,6 +9,9 @@ int main(){
     else if(a==100&&b<100){
         printf("Loss");
     }
+    else{
+        printf("No Profit No Loss")
+    }
     return 0;
 }
 
