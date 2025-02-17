@@ -7,7 +7,7 @@ int main(){
     if(a>0){
         printf("Positive");
     }
-    elif(b<0){
+    if(b<0){
         printf("Negative");
     }
     else{
