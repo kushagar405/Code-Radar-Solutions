@@ -4,7 +4,7 @@ int main(){
     int b;
     int c;
     scanf("%d%d%d",&a,&b,&c);
-    if(a>0){
+    if(a>=0){
         printf("Positive");
     }
     if(b<0){
