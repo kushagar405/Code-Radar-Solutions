@@ -1,13 +1,11 @@
 #include <stdio.h>
 int main(){
     int a;
-    int b;
-    int c;
-    scanf("%d%d%d",&a,&b,&c);
+    scanf("%d",&a);
     if(a>0){
         printf("Positive");
     }
-    if(b<0){
+    if(a<0){
         printf("Negative");
     }
     else{
