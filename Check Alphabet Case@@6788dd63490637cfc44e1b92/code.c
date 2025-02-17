@@ -6,7 +6,7 @@ int main(){
         printf("Uppercase");
     }
     elif{
-        printf("Lowercase")
+        printf("Lowercase");
     }
     return 0;
 }
